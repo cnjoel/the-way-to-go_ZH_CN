@@ -35,7 +35,7 @@
     -  [4.7 strings 和 strconv 包](eBook/04.7.md)
     -  [4.8 时间和日期](eBook/04.8.md)
     -  [4.9 指针](eBook/04.9.md)
-- 第5章：
+- 第5章
     - [控制结构](eBook/05.0.md)
     -  [5.1 if-else 结构](eBook/05.1.md)
     -  [5.2 测试多返回值函数的错误](eBook/05.2.md)
@@ -43,7 +43,7 @@
     -  [5.4 for 结构](eBook/05.4.md)
     -  [5.5 Break 与 continue](eBook/05.5.md)
     -  [5.6 标签与 goto](eBook/05.6.md)
-- 第6章：
+- 第6章
     - [函数（function）](eBook/06.0.md)
     -  [6.1 介绍](eBook/06.1.md)
     -  [6.2 函数参数与返回值](eBook/06.2.md)
@@ -65,7 +65,7 @@
     -  [7.4 切片重组（reslice）](eBook/07.4.md)
     -  [7.5 切片的复制与追加](eBook/07.5.md)
 	-  [7.6 字符串、数组和切片的应用](eBook/07.6.md)
-- 第8章：
+- 第8章
     - [Map](eBook/08.0.md)
 	-  [8.1 声明、初始化和 make](eBook/08.1.md)
 	-  [8.2 测试键值对是否存在及删除元素](eBook/08.2.md)
@@ -73,7 +73,7 @@
 	-  [8.4 map 类型的切片](eBook/08.4.md)
 	-  [8.5 map 的排序](eBook/08.5.md)
 	-  [8.6 将 map 的键值对调](eBook/08.6.md)
-- 第9章：
+- 第9章
     - [包（package）](eBook/09.0.md)
 	-  [9.1 标准库概述](eBook/09.1.md)
 	-  [9.2 regexp 包](eBook/09.2.md)
@@ -86,7 +86,7 @@
 	-  [9.9 通过 Git 打包和安装](eBook/09.9.md)
 	-  [9.10 Go 的外部包和项目](eBook/09.10.md)
 	-  [9.11 在 Go 程序中使用外部库](eBook/09.11.md)
-- 第10章：
+- 第10章
     - [结构（struct）与方法（method）](eBook/10.0.md)
     -  [10.1 结构体定义](eBook/10.1.md)
     -  [10.2 使用工厂方法创建结构体实例](eBook/10.2.md)
@@ -96,7 +96,7 @@
     -  [10.6 方法](eBook/10.6.md)
     -  [10.7 类型的 String() 方法和格式化描述符](eBook/10.7.md)
     -  [10.8 垃圾回收和 SetFinalizer](eBook/10.8.md)
-- 第11章：
+- 第11章
     - [接口（interface）与反射（reflection）](eBook/11.0.md)
     -  [11.1 接口是什么](eBook/11.1.md)
     -  [11.2 接口嵌套接口](eBook/11.2.md)
